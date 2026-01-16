@@ -1,0 +1,5 @@
+{
+  "name": "Sketch Spec Generator",
+  "description": "Convert dimension lists and text descriptions into downloadable .sketch files. Featuring AI-powered layout parsing and a real-time visual preview.",
+  "requestFramePermissions": []
+}
